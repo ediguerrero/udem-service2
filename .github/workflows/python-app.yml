@@ -38,8 +38,8 @@ jobs:
       run: |
         pytest
     - uses: ravsamhq/notify-slack-action@v2
-    if: always()
-    with:
-      status: ${{ job.status }} # required
+      if: always()
+      with:
+        status: ${{ job.status }} # required
       env:
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
