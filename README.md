@@ -17,7 +17,7 @@ Como parte de la especialización del ingeneria de software uno de los talleres 
 
 ## Instrucciónes 🚀
 
-Descargar el proyecto del siguiente [link](https://github.com/ediguerrero/udem-service1) en una carpeta donde tengas los proyectos en tu maquina local.
+Descargar el proyecto del siguiente [link](https://github.com/ediguerrero/udem-service2) en una carpeta donde tengas los proyectos en tu maquina local.
 
 Instalar las dependencias con los siguientes comandos, desde la consola de comandos:
 
